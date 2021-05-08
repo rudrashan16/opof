@@ -1,0 +1,7 @@
+class question{
+   constructor()
+   
+   display(){
+       
+   }
+}
